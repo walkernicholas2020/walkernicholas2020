@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @walkernicholas2020
 - 👀 I’m interested in Cogntive Neuroscience and Computational Neuropsychology
-- 🌱 I’m currently learning Cognitive Science, and basic Python
+- 🌱 I’m currently learning Cognitive Science, and basic Python, R, and HTML
 - 💞️ I’m looking to collaborate on any sort of projects
 - 📫 How to reach me walkernicholas2020@gmail.com
 
